@@ -2,7 +2,7 @@
 
 Submitted by: **Vincent Jared**
 
-**Wordle** is an app that ... [TODO] 
+**Wordle** is an app that allows users to play a simplified version of Wordle. Users input guesses using the keyboard on the screen and the app provides feedback on the correct and incorrect letters.
 
 Time spent: **X** hours spent in total
 
@@ -16,21 +16,16 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
+- [ ] Improve and customize the user interface by adding a launch screen and app icon
 - [ ] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] List anything else you can do to improve the app functionality!
 
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 <div>
     <a href="https://www.loom.com/share/6b445837117440cea110aa638fe1d0cd">
-      <p>Simulator - iPhone 16 Pro - 27 February 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/6b445837117440cea110aa638fe1d0cd">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6b445837117440cea110aa638fe1d0cd-9a02816a867bd263-full-play.gif">
@@ -39,14 +34,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Could you describe any challenges you encountered while building the app?
+I had a challenge with my submission, especially pushing my code from my local repository to GitHub.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Vincent Jared]
 
     Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
+    You may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
         http://www.apache.org/licenses/LICENSE-2.0
